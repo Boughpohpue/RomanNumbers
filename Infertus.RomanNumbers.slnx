@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Infertus.RomanNumbers.DemoConsoleApp/Infertus.RomanNumbers.DemoConsoleApp.csproj" />
+  <Project Path="Infertus.RomanNumbers/Infertus.RomanNumbers.csproj" />
+</Solution>
